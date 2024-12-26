@@ -33,7 +33,7 @@ require (
 	github.com/rs/zerolog v1.33.0
 	github.com/spf13/cobra v1.8.1
 	github.com/sunriselayer/sunrise v0.0.0-20241219055959-98df732962ed
-	github.com/sunriselayer/sunrise/x/da/erasurecoding v0.0.0-20241024013259-89fff8d362fb
+	github.com/sunriselayer/sunrise/x/da/erasurecoding v0.0.0-20241023141458-0a4774b34716
 )
 
 require (
